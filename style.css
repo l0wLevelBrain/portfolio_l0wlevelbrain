@@ -39,9 +39,13 @@ h3{
 }
 
 h2{
-    color: white;
+    color:white;
     margin-top: 5%;
     margin-bottom: 3%;
+    margin-left: 30%;
+    margin-right: 30%;
+    background-color: black;
+}
 }
 
 .links img{
